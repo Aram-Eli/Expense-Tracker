@@ -1,3 +1,3 @@
 
 # ⭐ Expense - Tracker
-### Project Create with React based on Tracker that calculates the add on income and Expenses
+### Project with React idea based on Tracker calculates the add on income and Expenses
